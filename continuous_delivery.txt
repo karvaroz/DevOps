@@ -1,6 +1,7 @@
 CONTINUOS DELIVERY
 
-- Provee un enfoque estructurado para desarrollar que nos ayuda con los principios fundamentales del desarrollo de software
+- Provee un enfoque estructurado para desarrollar que nos ayuda con los principios 
+fundamentales del desarrollo de software
 
 Ciclo de tiempo en entrega continua
 - Diseño
