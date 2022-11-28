@@ -1,0 +1,1 @@
+vi nginx.install.yml
