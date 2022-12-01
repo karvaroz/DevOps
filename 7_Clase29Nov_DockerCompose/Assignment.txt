@@ -1,0 +1,7 @@
+Assignment docker compose 29 Nov
+
+Step 1 : Install docker compose (Install docker as well if not already installed)
+Step 2 : Create a simple docker compose file with 2 services (preferably a backend and DB service)
+Step 3: Run the docker-compose up -d command
+Step 4: Finally run docker-compose ps command to show the list of services stood up by docker compose 
+Step 5: Upload the docker compose file along with the screenshot of docker-compose ps command output

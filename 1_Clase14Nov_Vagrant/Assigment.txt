@@ -1,0 +1,8 @@
+Homework
+●Virtualization
+Install VirtualBox in your machine.
+Install Vagrant in your machine.
+Stand Up a Fedora 35 VM Server.
+Stand Up an Ubuntu 20.04.x Server LTS VM.
+●Concept○
+Investigate: What is Software Architecture and how it is related to Enterprise Architecture.

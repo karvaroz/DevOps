@@ -1,0 +1,4 @@
+Assignment Prometheus 30 Nov
+
+Create a docker-compose file with Prometheus, Grafana and Node-exporter 
+Optional : if you want you can deploy this on docker swarm too

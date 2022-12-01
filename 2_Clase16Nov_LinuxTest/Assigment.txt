@@ -1,0 +1,13 @@
+Please resolve and paste your score:
+●https://www.tutorialspoint.com/unix/unix_online_test.htm
+
+Let’s watch this video: 
+https://www.youtube.com/watch?v=qiDIif7JVMo○
+Understand it and discuss.
+
+Homework
+●Using the VirtualBox SDK of the language you choose,
+create a CLI tool to manage your virtual machines○https://www.virtualbox.org/wiki/Downloads○https://pypi.org/project/pyvbox/
+●The tool should○Create a VM
+●Delete a VM○Stand up a VM
+●Push to Git

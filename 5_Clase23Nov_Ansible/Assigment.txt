@@ -1,0 +1,7 @@
+Homework
+●Create an Ansible playbook
+1)Create a VM using virtualbox
+2)Install ansible on your local machine and control the VM (perform installations of tools / libraries)
+3)Create ansible inventory file
+4)Create ansible playbook 
+5)Create public /private key pair and setup SSH authentication
